@@ -1,6 +1,5 @@
 # SimpleBashUtils
-In this project i'm will learn and develop basic Bash utilities for working with C programming language texts
-
+In this project I will learn and develop basic Bash utilities for working with C programming language texts
 ## Information
 
 ### cat History
